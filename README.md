@@ -13,9 +13,10 @@ I also self host quite a few services for myself and my friends and family
 - [x] Rook Ceph
 - [x] Rancher & Portainer
 - [x] CoreDNS
-- [/] Kubescape + Falco + Promethius + Graphana Loki + Harbor
+- [ ] Kubescape + Falco + Promethius + Graphana Loki + Harbor
 - [x] Envoy + Cert-Manager
-- [/] Local Forgejo + Jenkins + ArgoCD + OPA + TUF
+- [x] Local Forgejo
+- [ ] Jenkins + ArgoCD + OPA + TUF
 - [x] Nextcloud + NFS + TrueNAS Scale
 - [x] Netbox
 - [ ] Blog (Jekyll)
