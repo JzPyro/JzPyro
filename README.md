@@ -9,17 +9,18 @@ I also self host quite a few services for myself and my friends and family
 
 ### CNCF Project Completion
 - [x] Talos Linux
-- [ ] Cilium as KubeProxy alternative
-- [ ] Rook Ceph
-- [ ] Rancher & Portainer
-- [ ] CoreDNS
-- [ ] Kubescape + Falco + Promethius + Graphana Loki + Harbor
-- [ ] Envoy + Cert-Manager
-- [ ] Local GitLab + Jenkins + ArgoCD + OPA + TUF
-- [ ] Nextcloud + NFS + TrueNAS Scale
-- [ ] Netbox + Blog (Jekyll)
-- [ ] Keycloak
-- [ ] HomeAssistant
+- [x] Cilium as KubeProxy alternative
+- [x] Rook Ceph
+- [x] Rancher & Portainer
+- [x] CoreDNS
+- [/] Kubescape + Falco + Promethius + Graphana Loki + Harbor
+- [x] Envoy + Cert-Manager
+- [/] Local Forgejo + Jenkins + ArgoCD + OPA + TUF
+- [x] Nextcloud + NFS + TrueNAS Scale
+- [x] Netbox
+- [ ] Blog (Jekyll)
+- [x] Keycloak
+- [x] HomeAssistant
 - [ ] KubeVirt
 
 ## Full Stack
